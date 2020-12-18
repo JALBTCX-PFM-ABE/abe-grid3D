@@ -1,0 +1,18 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/noop_cursor.png</file>
+        <file>icons/contextHelp.png</file>
+        <file>icons/geo_off.png</file>
+        <file>icons/geo_decal.png</file>
+        <file>icons/geo_modulate.png</file>
+        <file>icons/geotiffopen.png</file>
+        <file>icons/prefs.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/reset_view.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/grid3D.jpg</file>
+        <file>icons/rotate_cursor.png</file>
+        <file>icons/zoom_cursor.png</file>
+ </qresource>
+ </RCC>
